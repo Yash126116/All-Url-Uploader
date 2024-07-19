@@ -1,4 +1,4 @@
-https://heroku.com/deploy
+https://heroku.com/deploy?template=https://github.com/Yash126116/All-Url-Uploader
 
 
 
